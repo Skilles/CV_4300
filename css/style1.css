@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&family=Raleway:wght@100;700&display=swap');
+
+body {
+    margin: 0
+}
+
+div .colored {
+    background-color:darkgrey;
+    padding: 10px 20px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: small;
+    color: rgb(22, 22, 22);
+    font-weight: 100;
+}
+
+.bold {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+.title-bold {
+    font-family: 'Paytone One', sans-serif;
+    font-size: large;
+    color: rgb(100, 100, 255);
+    font-weight: 400;
+}
+
+button {
+
+}
+
+hr {
+    
+}
+
+img {
+
+}
+
